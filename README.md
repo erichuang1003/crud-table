@@ -5,8 +5,11 @@
 
 实例demo.js:
 
+
+
 $(function() {
-	$('#container').restTable({
+
+        $('#container').restTable({
 	    creatable : true,
 	    updatable : true,
 	    deletable : 'multi',
@@ -55,6 +58,7 @@ $(function() {
 	            }
 	    ]
 	});
+	
 });
 
 
