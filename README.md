@@ -1,6 +1,7 @@
 # rest-table
 基于bootstrap table封装的一款表格组件
 可快速配置生成一个具备CRUD功能的表格
+通过restful接口规范调用后台接口
 
 实例demo.js:
 
